@@ -7,6 +7,7 @@ Technologies Used:
 - Java Servlets
 - HTML
 - CSS
+- JavaScript
 - AJAX
 - MySQL
 - GoogleAPI
